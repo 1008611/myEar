@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Administrator\Desktop\MyCSDN-master\app\build\intermediates\exploded-aar\com.facebook.fresco\fresco\0.12.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="a540784239c611ea490593e2053a5e2890675c68">
+        <dex dex="C:\Users\Administrator\Desktop\MyCSDN-master\app\build\intermediates\pre-dexed\debug\classes-199289a92840b58779d3d579e5fdbd6aa3620b2c.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\Desktop\MyCSDN-master\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline\0.12.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="145da27a459a63ea0c4e318930365cf0a8b8e891">
+        <dex dex="C:\Users\Administrator\Desktop\MyCSDN-master\app\build\intermediates\pre-dexed\debug\classes-8bf905c32dd467612137bd0410c5922d9df5ad8c.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\Desktop\MyCSDN-master\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\24.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="8dd49930e4f9dde1a42d37e362b9fea8b1b69c0d">
+        <dex dex="C:\Users\Administrator\Desktop\MyCSDN-master\app\build\intermediates\pre-dexed\debug\classes-7417a673a01e65db51c5760b08b16ba470980fa8.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\Desktop\MyCSDN-master\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="e70f608219ed6b974644c333249ab2bb7b71de98">
+        <dex dex="C:\Users\Administrator\Desktop\MyCSDN-master\app\build\intermediates\pre-dexed\debug\classes-9d66a23bf79423fed4b2888ebf0d932f58e8934d.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\Desktop\MyCSDN-master\app\build\intermediates\exploded-aar\com.android.support\design\24.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="fc29308a7a8f6d4407b34634eb48fb8b817f9b23">
+        <dex dex="C:\Users\Administrator\Desktop\MyCSDN-master\app\build\intermediates\pre-dexed\debug\classes-53ca6eddddd63471c1a51059f0079c75b45c119d.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\Desktop\MyCSDN-master\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="0874286cc2fd88d54fdf130e9d5372730da6de97">
+        <dex dex="C:\Users\Administrator\Desktop\MyCSDN-master\app\build\intermediates\pre-dexed\debug\classes-cd5eeb13e1902656c0ac97e19b8f508265339b35.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.nineoldandroids\library\2.4.0\e9b63380f3a242dbdbf103a2355ad7e43bad17cb\library-2.4.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="C:\Users\Administrator\Desktop\MyCSDN-master\app\build\intermediates\pre-dexed\debug\library-2.4.0-dd460f45d27a359687729c3c169358b1eda3100b.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\org.greenrobot\eventbus\3.0.0\ddd99896e9569eaababbe81b35d80e1b91c4ad85\eventbus-3.0.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="ddd99896e9569eaababbe81b35d80e1b91c4ad85">
+        <dex dex="C:\Users\Administrator\Desktop\MyCSDN-master\app\build\intermediates\pre-dexed\debug\eventbus-3.0.0-338198e230e883acd6c9c82ca46ba5fc3096755c.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.4.0-RC1\979305977ca3e5e6339ba77d9bbc805e700317ca\okhttp-3.4.0-RC1.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="979305977ca3e5e6339ba77d9bbc805e700317ca">
+        <dex dex="C:\Users\Administrator\Desktop\MyCSDN-master\app\build\intermediates\pre-dexed\debug\okhttp-3.4.0-RC1-8ba8e855c411e0715d506770b872ea99674c9067.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\Desktop\MyCSDN-master\app\build\intermediates\exploded-aar\com.facebook.fresco\fbcore\0.12.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="40e5cb8708fc25fe57cb403cc82e9ef98376b648">
+        <dex dex="C:\Users\Administrator\Desktop\MyCSDN-master\app\build\intermediates\pre-dexed\debug\classes-961c7360d04723e376d93736de594e08745096a0.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\org.jsoup\jsoup\1.9.2\5e3bda828a80c7a21dfbe2308d1755759c2fd7b4\jsoup-1.9.2.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="5e3bda828a80c7a21dfbe2308d1755759c2fd7b4">
+        <dex dex="C:\Users\Administrator\Desktop\MyCSDN-master\app\build\intermediates\pre-dexed\debug\jsoup-1.9.2-62eab2ae28fd6d6aae446320496b6e7442bdfc6d.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\logging-interceptor\3.4.0-RC1\c02a44744f33dacd4bea5160561b0fece180d719\logging-interceptor-3.4.0-RC1.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="c02a44744f33dacd4bea5160561b0fece180d719">
+        <dex dex="C:\Users\Administrator\Desktop\MyCSDN-master\app\build\intermediates\pre-dexed\debug\logging-interceptor-3.4.0-RC1-dc8a58fdf402f8c48257efcbdca53f5beba56e63.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\Desktop\MyCSDN-master\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline-base\0.12.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="c9a86e6bc8300fc00c191949ac61a2f7165e35c7">
+        <dex dex="C:\Users\Administrator\Desktop\MyCSDN-master\app\build\intermediates\pre-dexed\debug\classes-83a5d9a6b4848fafe50eac32df4f7307dd7bf26a.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\Desktop\MyCSDN-master\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="894922f67adeaaef51f077a29e315da21a3382d3">
+        <dex dex="C:\Users\Administrator\Desktop\MyCSDN-master\app\build\intermediates\pre-dexed\debug\classes-4b4149a9c1ac13f743d262e24d5451b7fbeff2fa.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\Desktop\MyCSDN-master\app\build\intermediates\exploded-aar\io.reactivex\rxandroid\1.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="5a2386ad9bfff580b206a7fe305cdccd00798159">
+        <dex dex="C:\Users\Administrator\Desktop\MyCSDN-master\app\build\intermediates\pre-dexed\debug\classes-cea65246e42cd7ce98abdfbd95f0ec0af59cecb8.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\retrofit\2.1.0\2de7cd8b95b7021b1d597f049bcb422055119f2c\retrofit-2.1.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="2de7cd8b95b7021b1d597f049bcb422055119f2c">
+        <dex dex="C:\Users\Administrator\Desktop\MyCSDN-master\app\build\intermediates\pre-dexed\debug\retrofit-2.1.0-02cdaa5f093e78b272a8b951b62057cb62740b8d.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\glide\3.7.0\9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4\glide-3.7.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="C:\Users\Administrator\Desktop\MyCSDN-master\app\build\intermediates\pre-dexed\debug\glide-3.7.0-1f3ddf859a86296da03fddcf50d19f29d652df81.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.9.0\f824591a0016efbaeddb8300bee54832a1398cfa\okio-1.9.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="f824591a0016efbaeddb8300bee54832a1398cfa">
+        <dex dex="C:\Users\Administrator\Desktop\MyCSDN-master\app\build\intermediates\pre-dexed\debug\okio-1.9.0-db0545b090bbd931e1cf6e43202e038727277a7d.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.7\751f548c85fa49f330cecbb1875893f971b33c4e\gson-2.7.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="C:\Users\Administrator\Desktop\MyCSDN-master\app\build\intermediates\pre-dexed\debug\gson-2.7-2e85dbf641c4a16c73925139bd4ff50ebb0450dd.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\converter-gson\2.1.0\aa557d71ead91cbf26e0c316a0f593d168303309\converter-gson-2.1.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="aa557d71ead91cbf26e0c316a0f593d168303309">
+        <dex dex="C:\Users\Administrator\Desktop\MyCSDN-master\app\build\intermediates\pre-dexed\debug\converter-gson-2.1.0-fc6d109c83c05cddded4b5ea732ed5dd7c938086.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\Desktop\MyCSDN-master\app\build\intermediates\exploded-aar\com.facebook.fresco\drawee\0.12.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="1e346707e4770db216049a532ab3eb5e317cf82a">
+        <dex dex="C:\Users\Administrator\Desktop\MyCSDN-master\app\build\intermediates\pre-dexed\debug\classes-d09f0ea9bb4274fe3497ab5d44db94ba01914217.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\Desktop\MyCSDN-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\jars\libs\internal_impl-24.0.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="C:\Users\Administrator\Desktop\MyCSDN-master\app\build\intermediates\pre-dexed\debug\internal_impl-24.0.0-5655b4b4df16ee9cb480c0f086e4ecf2fc0ca8f8.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\Desktop\MyCSDN-master\app\build\intermediates\exploded-aar\com.wang.avi\library\2.1.2\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="b09a3b885f4a9b689eb723c56b8526960c5f0115">
+        <dex dex="C:\Users\Administrator\Desktop\MyCSDN-master\app\build\intermediates\pre-dexed\debug\classes-a9eae2ee8d75a8cc3168f426c888e45156eb18c8.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\io.reactivex\rxjava\1.1.6\2586312cd2b8a511e4c6236736f5a039fc0f2273\rxjava-1.1.6.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="2586312cd2b8a511e4c6236736f5a039fc0f2273">
+        <dex dex="C:\Users\Administrator\Desktop\MyCSDN-master\app\build\intermediates\pre-dexed\debug\rxjava-1.1.6-11e5c01617ee667d4a45ba948a656c898b69cbfd.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\Desktop\MyCSDN-master\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="3bd97cfefd783e9de1dd1c30574a6adb44b4409b">
+        <dex dex="C:\Users\Administrator\Desktop\MyCSDN-master\app\build\intermediates\pre-dexed\debug\classes-52b865d2e44c74da6037778c5d0c4ec65e8e3903.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-tasks\1.4.0\d85884acf6810a3bbbecb587f239005cbc846dc4\bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="C:\Users\Administrator\Desktop\MyCSDN-master\app\build\intermediates\pre-dexed\debug\bolts-tasks-1.4.0-c64325f78a24c085b700c554244dc03fa6bc6a89.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\converter-scalars\2.1.0\7c0d7c8f6e52115bb82fa018d81a8d0cae35dde5\converter-scalars-2.1.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="7c0d7c8f6e52115bb82fa018d81a8d0cae35dde5">
+        <dex dex="C:\Users\Administrator\Desktop\MyCSDN-master\app\build\intermediates\pre-dexed\debug\converter-scalars-2.1.0-f5920d01211ed20b03dd2977fe20d8ac1a753675.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.jakewharton\butterknife\7.0.1\d5d13ea991eab0252e3710e5df3d6a9d4b21d461\butterknife-7.0.1.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="d5d13ea991eab0252e3710e5df3d6a9d4b21d461">
+        <dex dex="C:\Users\Administrator\Desktop\MyCSDN-master\app\build\intermediates\pre-dexed\debug\butterknife-7.0.1-fc861cbde294a7e4a9efd57936d766cb077b60e2.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\adapter-rxjava\2.1.0\693eddc23e87ab13f9cf5001707ce8e7e1d1ff01\adapter-rxjava-2.1.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="693eddc23e87ab13f9cf5001707ce8e7e1d1ff01">
+        <dex dex="C:\Users\Administrator\Desktop\MyCSDN-master\app\build\intermediates\pre-dexed\debug\adapter-rxjava-2.1.0-a922f2c9139fd2cbbf2500b5aa528f1e500fa2f5.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\Desktop\MyCSDN-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="C:\Users\Administrator\Desktop\MyCSDN-master\app\build\intermediates\pre-dexed\debug\classes-4364f22b820809e8a679ab78ada89388f4e1331c.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.android.support\support-annotations\24.0.0\2943c74db6d4346ab8c6531adac91fa05c137c40\support-annotations-24.0.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
+        <dex dex="C:\Users\Administrator\Desktop\MyCSDN-master\app\build\intermediates\pre-dexed\debug\support-annotations-24.0.0-170a33ba025e7388493b8e76c041cf4d64a29a8a.jar" />
+    </item>
+
+</items>
